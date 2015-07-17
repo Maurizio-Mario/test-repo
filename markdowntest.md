@@ -3,5 +3,5 @@
 
 * asterix creates a bullet
 * a second bullet
-*a thitrd bullet
+* a thitrd bullet
 
